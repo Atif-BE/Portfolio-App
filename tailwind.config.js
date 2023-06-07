@@ -6,7 +6,7 @@ export default {
     'node_modules/flowbite-react/**/*.{js,jsx,ts,tsx}'
   ],
   theme: {
-    extend: {},
+    extend: {backgroundImage: {'home-pattern': "url('/wave-haikei.svg')"}},
   },
   plugins: [
     require('flowbite/plugin')

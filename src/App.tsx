@@ -5,7 +5,9 @@ function App() {
 
   return (
     <Layout>
-      
+      <div className='bg-home-pattern bg-no-repeat h-screen'>
+
+      </div>
     </Layout>
   )
 }
